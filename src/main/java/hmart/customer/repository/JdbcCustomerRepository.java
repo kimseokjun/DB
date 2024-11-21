@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-//CREATE TABLE CUSTOMER2 (
+//CREATE TABLE CUSTOMER (
 //    "ID" VARCHAR2(30 BYTE),
 //	"NAME" VARCHAR2(30 BYTE),
 //	"AGE" NUMBER(10,0),
@@ -23,7 +23,7 @@ import java.util.Optional;
 //PRIMARY KEY ("ID")
 //    );
 //
-//INSERT INTO customer2
+//INSERT INTO customer
 //select * from 고객;
 
 //EXEC DBMS_XDB.SETHTTPPORT(9090);
